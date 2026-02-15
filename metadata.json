@@ -1,0 +1,8 @@
+{
+  "name": "Copy of KrishiSahayak - Maharashtra Agritech Platform",
+  "description": "A comprehensive AI-powered agritech platform for farmers in Maharashtra featuring real-time IoT monitoring, AI crop diagnosis (Crop Doctor), and multilingual voice assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
